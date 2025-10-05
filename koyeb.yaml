@@ -1,6 +1,6 @@
-name: Teddy
+name: Arslan_MD
 services:
-  - name: Teddy-service
+  - name: arslan_md-service
     type: web
     ports:
       - 5000
